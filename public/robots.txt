@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://scholarly-solutions.github.io/scholarly-solutions/sitemap.xml
