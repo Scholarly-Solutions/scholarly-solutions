@@ -1,52 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scholarly Solutions.inc on Scholarly Solutions</title>
+    <title>Home on Scholarly Solutions</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Scholarly Solutions.inc on Scholarly Solutions</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Copyright: Scholarly Solutions</copyright>
-    <lastBuildDate>Tue, 20 Jun 2023 14:50:50 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Home on Scholarly Solutions</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jun 2023 14:50:50 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 20 Jun 2023 14:50:50 +0100</pubDate>
-      
       <guid>http://localhost:1313/about/</guid>
-      <description>Scholarly Solutions.</description>
-      
+      <description>Our Story Scholarly Solutions.inc was founded with the mission to provide comprehensive academic and scientific support to researchers and scholars worldwide. Our team of experts brings years of experience and a deep understanding of various academic disciplines, ensuring that we deliver the highest quality services tailored to your needs.&#xA;Our Team Meet our dedicated team of professionals who are passionate about helping you succeed. With diverse backgrounds in academia, research, and scientific writing, our team is equipped to handle a wide range of projects with precision and expertise.</description>
     </item>
-    
     <item>
       <title>Contact Us</title>
       <link>http://localhost:1313/contact/</link>
       <pubDate>Tue, 20 Jun 2023 14:50:50 +0100</pubDate>
-      
       <guid>http://localhost:1313/contact/</guid>
-      <description>Name:Email:Message:SendEmail: scholarlysolutions@proton.</description>
-      
+      <description>Contact Us Email: scholarlysolutions@proton.me&#xA;Phone: 7907392933&#xA;WhatsApp: 7907392933, 8547321882&#xA;Contact Form Direct Contact Email: scholarlysolutions@proton.me&#xA;Phone: 7907392933&#xA;WhatsApp: 7907392933, 8547321882&#xA;Follow Us [Social media links]</description>
     </item>
-    
     <item>
       <title>FAQs</title>
       <link>http://localhost:1313/faq/</link>
       <pubDate>Tue, 20 Jun 2023 14:50:50 +0100</pubDate>
-      
       <guid>http://localhost:1313/faq/</guid>
-      <description>Q: What types of documents do you specialize in?</description>
-      
+      <description>FAQs Q: What types of documents do you specialize in?&#xA;A: We specialize in scientific writing, paper writing, thesis writing, and more.&#xA;Q: How do I get started with your services?&#xA;A: Contact us via email, phone, or WhatsApp to discuss your project and needs.&#xA;Q: What is your turnaround time for services?&#xA;A: Turnaround time varies based on the complexity of the project. We will provide an estimated timeframe upon reviewing your requirements.</description>
     </item>
-    
-    <item>
-      <title>Our Services</title>
-      <link>http://localhost:1313/services/</link>
-      <pubDate>Tue, 20 Jun 2023 14:50:50 +0100</pubDate>
-      
-      <guid>http://localhost:1313/services/</guid>
-      <description>Scientific Writing #Our scientific writing service helps you articulate your research findings with clarity and precision.</description>
-      
-    </item>
-    
   </channel>
 </rss>

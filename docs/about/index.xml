@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on My New Hugo Site</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jun 2023 14:50:50 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Tue, 20 Jun 2023 14:50:50 +0100</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>Our Story Scholarly Solutions.inc was founded with the mission to provide comprehensive academic and scientific support to researchers and scholars worldwide. Our team of experts brings years of experience and a deep understanding of various academic disciplines, ensuring that we deliver the highest quality services tailored to your needs.&#xA;Our Team Meet our dedicated team of professionals who are passionate about helping you succeed. With diverse backgrounds in academia, research, and scientific writing, our team is equipped to handle a wide range of projects with precision and expertise.</description>
+    </item>
+  </channel>
+</rss>
