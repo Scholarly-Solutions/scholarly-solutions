@@ -1,5 +1,0 @@
-baseURL = "https://scholarly-solutions.github.io/scholarly-solutions/"
-languageCode = "en-us"
-title = "Scholarly Solutions"
-theme = "blowfish"
-publishDir = "docs"
