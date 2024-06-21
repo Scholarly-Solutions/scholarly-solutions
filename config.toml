@@ -1,4 +1,4 @@
-baseURL = "https://scholarly-solutions.github.io/scholarly-solutions/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Scholarly Solutions"
 theme = "blowfish"
